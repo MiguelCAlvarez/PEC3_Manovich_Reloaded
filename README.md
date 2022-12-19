@@ -18,9 +18,14 @@ Fecha:  19 / 12 / 2022
 
 Este tercer reto consiste en la elección de dos ejemplos prácticos mediante los cuales se pueda explicar el concepto de hibridación según Lev Manovich. 
 
-El primer gran problema al que nos enfrentamos, es hacer una clara distinción entre hibridación y multimedia, términos que muy a menudo se confunden entre si debido a las similitudes que existen. Multimedia, como su propio nombre indica, es una conjunto de dos o mas medios utilizados para crear una experiencia en la que cada elemento es visualizado por separado, como por ejemplo en una página web, donde se puede encontrar textos, imágenes, audios y mas
+El primer gran problema al que nos enfrentamos, es hacer una clara distinción entre hibridación y multimedia, términos que muy a menudo se confunden entre si debido a las similitudes que existen. Multimedia, como su propio nombre indica, es una conjunto de dos o mas medios utilizados para crear una experiencia en la que cada elemento es visualizado por separado, como por ejemplo en una página web, donde se puede encontrar textos, imágenes, audios y mas. La hibridación sin embargo, va un paso mas allá y genera un elemento completamente nuevo usando como base los medios anteriores.
 
 > _"En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado." **(Ferran Adell, 2014)**_
+
+En este caso vamos a ver dos ejemplos que a mi parecer son hibridaciones de otros diferentes: 
+
+ - El software de creación de contenido 3D Blender, donde se mezcla una gran numero de herramientas vistas individualmente en otros programas.
+ - El videojuego "The Stanley Parable"
 
 
 

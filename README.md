@@ -44,22 +44,22 @@ Desde entonces Blender no ha parado de crecer, estando actualmente por la versi�
 
 ![Imagen creada con Blender](https://upload.wikimedia.org/wikipedia/commons/4/42/Blender3D_CircularWaveAnim.gif)
 
+
+### *Blender como caso de hibridación.*
+
+Poniendo a Blender en comparación con el resto de programas del mismo ámbito que existen hoy en día en el mercado, se pueden sacar dos cosas claras, la primera es fácil, se trata de una experiencia completamente gratuita, cosa que escasea hoy en día, y la segunda es la gran variedad de herramientas y funcionalidades que nos ofrece dentro de un mismo software. Se podría decir que Blender es una suite, así como lo es Adobe o Office, pero con todas esas distintas herramientas recogidas y "comprimidas" en un solo ejecutable. Aquí nos podría surgir la gran duda, ¿No se trata entonces de un simple caso de multimedia? A simple vista lo puede parecer, pero estando inmerso en la interfaz de usuario, y viendo como todas estas herramientas "conviven" entre si, se te quita la duda.
+
 Es interesante destacar, que algunos de estos medios que conviven entre si, son a su vez producto de la remediación de antiguos medios, como por ejemplo:
 
  - Esculpido 3D: Esta herramienta le debe sus orígenes, evidentemente a la escultura y la cerámica, ya que realmente es el mismo proceso el que hay que seguir para conseguir un resultado final satisfactorio.
  - Animación 2D y 3D: Antes de la existencia que softwares dedicados a ello, la animación había que realizarla de forma física, ya sea con muñecos de plastilina creando un StopMotion para el caso del 3D, o una sucesión de dibujos para el caso del 2D.
  - Edición de video: Al igual que los casos anteriores, antes de la existencia de softwares especializados, las cintas de video ya se editaban, ya sea su etalonaje, como la combinación de diversos clips.
 
-A diferencia de una suite donde tienes a tu disposición diferentes programas con diferentes propósitos y funciones (Aunque últimamente se estén esforzando para cambiar esto, como por ejemplo Adobe, que te permite combinar programas entre si) , Blender goza de una interfaz 
+A diferencia de una suite donde tienes a tu disposición diferentes programas con diferentes propósitos y funciones (Aunque últimamente se estén esforzando para cambiar esto, como por ejemplo Adobe, que te permite combinar programas entre si) , Blender goza de una interfaz donde apenas percibes el "medio" individual que estas usando (Salvo por algunos casos como la edición de video, la cual esta mas apartada a un uso individual).
 
-### *Blender como caso de hibridación.*
-
-Poniendo a Blender en comparación con el resto de programas del mismo ámbito que existen hoy en día en el mercado, se pueden sacar dos cosas claras, la primera es fácil, se trata de una experiencia completamente gratuita, cosa que escasea hoy en día, y la segunda es la gran variedad de herramientas y funcionalidades que nos ofrece dentro de un mismo software. Se podría decir que Blender es una suite, así como lo es Adobe o Office, pero con todas esas distintas herramientas recogidas y "comprimidas" en un solo ejecutable. Aquí nos podría surgir la gran duda, ¿No se trata entonces de un simple caso de multimedia? A simple vista lo puede parecer, pero estando inmerso en la interfaz de usuario, y viendo como todas estas herramientas "conviven" entre si, se te quita la duda.
-
-
-
-
+### *Conclusiones sobre Blender*
     
+
 
 ## Re-descubriendo la hibridación: The Stanley Parable.
 

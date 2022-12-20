@@ -44,6 +44,13 @@ Desde entonces Blender no ha parado de crecer, estando actualmente por la versi�
 
 ![Imagen creada con Blender](https://upload.wikimedia.org/wikipedia/commons/4/42/Blender3D_CircularWaveAnim.gif)
 
+Es interesante destacar, que algunos de estos medios que conviven entre si, son a su vez producto de la remediación de antiguos medios, como por ejemplo:
+
+ - Esculpido 3D: Esta herramienta le debe sus orígenes, evidentemente a la escultura y la cerámica, ya que realmente es el mismo proceso el que hay que seguir para conseguir un resultado final satisfactorio.
+ - Animación 2D y 3D: Antes de la existencia que softwares dedicados a ello, la animación había que realizarla de forma física, ya sea con muñecos de plastilina creando un StopMotion para el caso del 3D, o una sucesión de dibujos para el caso del 2D.
+ - Edición de video: Al igual que los casos anteriores, antes de la existencia de softwares especializados, las cintas de video ya se editaban, ya sea su etalonaje, como la combinación de diversos clips.
+
+A diferencia de una suite donde tienes a tu disposición diferentes programas con diferentes propósitos y funciones (Aunque últimamente se estén esforzando para cambiar esto, como por ejemplo Adobe, que te permite combinar programas entre si) , Blender goza de una interfaz 
 
 ### *Blender como caso de hibridación.*
 

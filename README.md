@@ -1,4 +1,5 @@
 
+
 # PEC3: Visionando el futuro con las gafas de Manovich.
 
 ### Recurso de aprendizaje de Cultura Digital .
@@ -56,19 +57,20 @@ Es interesante destacar, que algunos de estos medios que conviven entre si, son 
  - Animación 2D y 3D: Antes de la existencia que softwares dedicados a ello, la animación había que realizarla de forma física, ya sea con muñecos de plastilina creando un StopMotion para el caso del 3D, o una sucesión de dibujos para el caso del 2D.
  - Edición de video: Al igual que los casos anteriores, antes de la existencia de softwares especializados, las cintas de video ya se editaban, ya sea su etalonaje, como la combinación de diversos clips.
 
-A diferencia de una suite donde tienes a tu disposición diferentes programas con diferentes propósitos y funciones (Aunque últimamente se estén esforzando para cambiar esto, como por ejemplo Adobe, que te permite combinar programas entre si) , Blender goza de una interfaz donde apenas percibes el "medio" individual que estas usando (Salvo por algunos casos como la edición de video, la cual esta mas apartada a un uso individual).
+A diferencia de una suite donde tienes a tu disposición diferentes programas con diferentes propósitos y funciones (Aunque últimamente se estén esforzando para cambiar esto, como por ejemplo Adobe, que te permite combinar programas entre si) , Blender goza de una interfaz donde apenas percibes el "medio" individual que estas usando. Dicha interfaz, te permite una configuración muy personalizada para el uso especifico que le des al software, que te plantea unos espacios de trabajo por defecto totalmente configurables. Haciendo uso de esta función, puedes monitorizar y "trastear" con diversas herramientas a la vez.
 
 ### *Conclusiones sobre Blender*
-    
+Llevo usando Blender casi dos años a modo de hobbie para realizar conceptos que me planteo, y estoy seguro de que tan solo eh descubierto una fracción muy pequeña del totalidad de sus funciones, a esto se le suma un desarrollo muy rápido donde en cada actualización incorporan nuevo contenido para facilitar el trabajo a los artistas, y una comunidad muy grande donde te puedes encontrar todo tipo de ayuda y ejemplos prácticos, así como "assets" y "add-ons".
+
+Tal vez otros programas del estilo le ganen en apartados individuales y especializados, pero en versatilidad y numero de posibilidades, Blender es un gigante que no hace mas que crecer.
 
 
-## Re-descubriendo la hibridación: The Stanley Parable.
+## Re-descubriendo la hibridación: "The Stanley Parable."
 
 ![The Stanley Parable en Steam](https://cdn.cloudflare.steamstatic.com/steam/apps/221910/header.jpg?t=1668035575)
 ---
 ### *Contexto.*
-
-
+The Stanley Parable fue un su origen un mod de aventura creado por Davey Wreden y William Pugh en 2011 a partir de otro juego, el Half Life 2. Tras el éxito entre los jugadores, estos dos desarrollaron por los dos años siguientes un videojuego completamente a parte, dándole vida en 2013, al que hoy conocemos como The Stanley Parable.
 
 
 

@@ -72,11 +72,18 @@ Tal vez otros programas del estilo le ganen en apartados individuales y especial
 ### *Contexto.*
 The Stanley Parable fue un su origen un mod de aventura creado por Davey Wreden y William Pugh en 2011 a partir de otro juego, el Half Life 2. Tras el éxito entre los jugadores, estos dos desarrollaron por los dos años siguientes un videojuego completamente a parte, dándole vida en 2013, al que hoy conocemos como The Stanley Parable.
 
+Este no es un juego al uso de aventura, donde tengas un mundo abierto que explorar, una gran variedad de armas o misiones a seguir, es de hecho todo lo contrario, un mapa cerrado donde todas tus acciones están pensadas y programadas para tener una reacción, sin opción a armas ni ninguna clase de inventario. Debido a esto, mucha gente lo clasifica como un "walking simulator", es decir, un videojuego donde la mayor interacción que puedes hacer como jugador es andar, y como mucho pulsar botones. Esto puede parecer un punto muy negativo del juego, pero sin embargo es lo que le hace especial, con esta numero limitado de posibilidades, es capaz no solo de contarte una historia, sino de hacerte participe de ella de un modo único y original.
+
+![enter image description here](https://i.pinimg.com/originals/c8/43/68/c84368f317de4884e9de3682960a35af.gif)
+
+### *"The Stanley Parable" como caso de hibridación.*
+Para ver si este es un caso de hibridación según Manovich o no, primero hay que deducir cuales son los medios que "se fusionan" aquí para crear uno nuevo. 
+
+Este juego tiene muchas de las características de una pelicula interactiva (como por ejemplo Black Mirror:  Bandersnatch), donde el jugador tiene que tomar elecciones para continuar por la ruta prevista, aunque a diferencia de estas, donde las elecciones se basan en ir hacia un lugar u otro de la historia mediante un simple botón, en The Stanley Parable todas tus elecciones son controladas como en cualquier otro juego en primera persona, mediante movimiento.
 
 
-
-
-
+### *Conclusiones sobre "The Stanley Parable"*
+The Stanley Parable es un juego muy interesante que habla sobre la falsa libertad de elección en el mundo de los videojuegos, donde por muy libre que creas que eres, siempre dependes de lo que los desarrolladores del propio juego consideren oportuno. Esto hace que en ocasiones y sobre todo el principio sea un tanto enrevesado, pero sobre todo curioso, interesante y original.
 
 ---
 ### Referencias y Bibliografía

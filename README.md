@@ -1,5 +1,3 @@
-
-
 # PEC3: Visionando el futuro con las gafas de Manovich.
 
 ### Recurso de aprendizaje de Cultura Digital .
@@ -74,12 +72,16 @@ The Stanley Parable fue un su origen un mod de aventura creado por Davey Wreden 
 
 Este no es un juego al uso de aventura, donde tengas un mundo abierto que explorar, una gran variedad de armas o misiones a seguir, es de hecho todo lo contrario, un mapa cerrado donde todas tus acciones están pensadas y programadas para tener una reacción, sin opción a armas ni ninguna clase de inventario. Debido a esto, mucha gente lo clasifica como un "walking simulator", es decir, un videojuego donde la mayor interacción que puedes hacer como jugador es andar, y como mucho pulsar botones. Esto puede parecer un punto muy negativo del juego, pero sin embargo es lo que le hace especial, con esta numero limitado de posibilidades, es capaz no solo de contarte una historia, sino de hacerte participe de ella de un modo único y original.
 
+Los únicos dos personajes son Stanley y el narrador, que es quien guía a Stanley (el jugador) durante todo el juego dándole instrucciones para avanzar, las cuales tiene la libertad de omitir. Esto crea una ruptura de la cuarta pared donde el narrador esta realmente hablando con el jugador directamente. Básicamente, el juego trata sobre explotar ese concepto, llegándote a contar una historia con diversos finales alternativos dependiendo de tus elecciones como jugador,
+
 ![enter image description here](https://i.pinimg.com/originals/c8/43/68/c84368f317de4884e9de3682960a35af.gif)
 
 ### *"The Stanley Parable" como caso de hibridación.*
-Para ver si este es un caso de hibridación según Manovich o no, primero hay que deducir cuales son los medios que "se fusionan" aquí para crear uno nuevo. 
+Para ver si este es un caso de hibridación según Manovich o no, primero hay que deducir cuales son los medios que "se fusionan" aquí para crear uno nuevo, siendo el primero y mas evidente el videojuego.
 
 Este juego tiene muchas de las características de una pelicula interactiva (como por ejemplo Black Mirror:  Bandersnatch), donde el jugador tiene que tomar elecciones para continuar por la ruta prevista, aunque a diferencia de estas, donde las elecciones se basan en ir hacia un lugar u otro de la historia mediante un simple botón, en The Stanley Parable todas tus elecciones son controladas como en cualquier otro juego en primera persona, mediante movimiento.
+
+Se podría decir entonces que este es un caso de hibridación entre el videojuego y las peliculas interactivas, tomando prestadas funcionalidades de cada una de ellas y creando en su conjunto una experiencia completamente nueva.
 
 
 ### *Conclusiones sobre "The Stanley Parable"*
@@ -89,8 +91,12 @@ The Stanley Parable es un juego muy interesante que habla sobre la falsa liberta
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* ADELL, Ferran. Remediación, multimedia e hibridación de los medios. _Fundamentos y evolución de la multimedia_ [en línea]. 17 de abril de 2014 [consultado el 20 de diciembre de 2022]. Disponible en: [http://multimedia.uoc.edu/blogs/fem/es/](http://multimedia.uoc.edu/blogs/fem/es/)
+* Historia de Blender — Blender Manual. _Blender Documentation - blender.org_ [en línea]. [sin fecha] [consultado el 20 de diciembre de 2022]. Disponible en: [https://docs.blender.org/manual/es/2.82/getting_started/about/history.html](https://docs.blender.org/manual/es/2.82/getting_started/about/history.html)
+* COLABORADORES DE LOS PROYECTOS WIKIMEDIA. The Stanley Parable - Wikipedia, la enciclopedia libre. _Wikipedia, la enciclopedia libre_ [en línea]. 2 de abril de 2014 [consultado el 20 de diciembre de 2022]. Disponible en: [https://es.wikipedia.org/wiki/The_Stanley_Parable](https://es.wikipedia.org/wiki/The_Stanley_Parable)
 
 
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
+
